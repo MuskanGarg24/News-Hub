@@ -7,4 +7,4 @@ If you want to run :
 2) Put your API key in apiKey by replacing "Your API_KEY Here" in index.js
 3) Run the app on your local server.
 
-Demo: https://newzzhub.herokuapp.com/
+Demo: https://newzzzhub.netlify.app/
