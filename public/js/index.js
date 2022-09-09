@@ -10,7 +10,7 @@ function retrieve(e){
 
     e.preventDefault();
 
-    const apiKey = "Your API_KEY Here"; // replace with your api key
+    const apiKey = "YOUR_API_KEY_HERE"; // replace with your api key
     let query = input.value;
 
     let url = `https://gnews.io/api/v4/search?q=${query}&token=${apiKey}&lang=en`

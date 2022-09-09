@@ -18,13 +18,11 @@ p{
     padding-bottom: 5px;
     text-align: center;
     font-size: 22px;
-    font-style: italic;
 }
 
 .links{
     padding-top: 30px;
     text-align: center;
-    font-style: italic;
     font-size: 15px;
 }
 
@@ -34,7 +32,7 @@ p{
 }
 
 .form-control{
-    width: 90%;
+    width: 60%;
     margin: auto;
 }
 
